@@ -1,0 +1,9 @@
+¿Qué he cambiado?
+
+El nombre de la clase → porque no describe lo que hace el programa
+
+El nombre de las variables  → solo con una letra no explicaban su función
+
+He añadido comentarios para que quede claro que ocurre en cada momento en el código
+
+He cambiado lo que muestra por pantalla, para que quede claro a qué se refiere
