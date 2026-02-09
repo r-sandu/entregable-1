@@ -28,3 +28,6 @@ El código ha sido refactorizado y documentado con Javadoc
 1. Abrir terminal en la carpeta raíz del proyecto
 2. Compilar el archivo
 3. Ejecutar el programa
+
+## Autor
+Raúl Sandu
